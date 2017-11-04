@@ -50,4 +50,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/scx30g-common/proprietary/lib/libomx_vpxdec_hw_sprd.so:system/lib/libomx_vpxdec_hw_sprd.so \
     vendor/samsung/scx30g-common/proprietary/lib/libomx_m4vh263dec_hw_sprd.so:system/lib/libomx_m4vh263dec_hw_sprd.so \
     vendor/samsung/scx30g-common/proprietary/lib/libomx_m4vh263enc_hw_sprd.so:system/lib/libomx_m4vh263enc_hw_sprd.so \
+    vendor/samsung/scx30g-common/proprietary/lib/libomx_m4vh263dec_sw_sprd.so:system/lib/libomx_m4vh263dec_sw_sprd.so \
     vendor/samsung/scx30g-common/proprietary/lib/hw/gralloc.sc8830.so:system/lib/hw/gralloc.sc8830.so
