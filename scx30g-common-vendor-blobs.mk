@@ -17,7 +17,7 @@
 PRODUCT_COPY_FILES += \
     vendor/samsung/scx30g-common/proprietary/vendor/bin/gpsd:system/vendor/bin/gpsd \
     vendor/samsung/scx30g-common/proprietary/vendor/bin/gps.cer:system/vendor/bin/gps.cer \
-    vendor/samsung/scx30g-common/proprietary/vendor/bin/sdcard:system/bin/sdcard \
+    vendor/samsung/scx30g-common/proprietary/vendor/bin/sdcard:system/vendor/bin/sdcard \
     vendor/samsung/scx30g-common/proprietary/lib/libsprd_agps_agent.so:system/lib/libsprd_agps_agent.so \
     vendor/samsung/scx30g-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/scx30g-common/proprietary/lib/libboost.so:system/lib/libboost.so \
